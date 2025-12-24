@@ -1,0 +1,2 @@
+*.pbo filter=lfs diff=lfs merge=lfs -text
+*.bisign filter=lfs diff=lfs merge=lfs -text
